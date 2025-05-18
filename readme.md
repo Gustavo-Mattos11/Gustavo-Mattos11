@@ -36,7 +36,7 @@
   <img width=390 height=190 src="https://github-readme-stats.vercel.app/api?username=Gustavo-Mattos11&theme=darcula&show_icons=true&hide_border=false&count_private=true" />
   <img width=390 height=190 src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Mattos11&theme=darcula&hide_border=false" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Mattos11&theme=darcula&show_icons=true&hide_border=false&layout=compact" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Mattos11&theme=darcula&show_icons=true&hide_border=false&layout=compact&langs-count=4" />
 </div>
 
 <br/><br/>
